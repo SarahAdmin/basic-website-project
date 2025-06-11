@@ -1,0 +1,21 @@
+body { 
+background-color:"snow"
+};
+
+p { 
+color:"rebeccapurple" 
+font-family:"verdana"
+font-style: "normal"
+};
+
+h1 { 
+  color:"deeppink"
+  font-family:"garamond" 
+  font-style:"italic" 
+};
+
+footer { 
+  background-color:"red" 
+  font-family:"arial"
+  color:"white"
+};
